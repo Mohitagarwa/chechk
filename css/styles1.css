@@ -1,0 +1,105 @@
+                           /*ImageSection*/
+
+.resumeTemp{
+  width: 70%;
+  position: absolute;
+  margin-left: 15%;
+}
+.mobileimg{
+  height: 250px;
+  width: 170px;
+  position: absolute;
+  margin-left: 65.5%;
+  margin-top: 10%;
+}
+.sc1{
+  margin-left: 76%;
+  margin-top: 25%;
+  position: absolute;
+  width: 75px;
+}
+.sc2{
+  margin-left: 79%;
+  margin-top: 21%;
+  position: absolute;
+  width: 50px;
+}
+.sc3{
+  margin-left: 77%;
+  margin-top: 18.5%;
+  position: absolute;
+  width: 40px;
+}
+.letter{
+  position: absolute;
+  margin-left: 74%;
+  width: 150px;
+ margin-top: 2%;
+ height: 75px;
+}
+
+.topcomp{
+  color: white;
+  text-align: center;
+}
+.compSym{
+  color: #fff;
+  display: inline-block;
+  margin-left: 13%;
+}
+                                      /*middle*/
+#descr{
+  color: grey;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+}
+#HeadDescr{
+  font-size: 2.7rem;
+  text-align: center;
+}
+.bt1{
+  padding: 1% 1.5%;
+  background: mediumseagreen;
+}
+
+                                         /* Image Section */
+#imageSection{
+  height: 600px;
+  background-image: linear-gradient(white,lightgray);
+}
+
+                                        /*Company */
+#companySection{
+  height: 300px;
+  background: rgb(60,60,60);
+}
+
+                                           /* Menu */
+#UpperMenu{
+  height: 160px;
+}
+
+#webHead{
+  color: red;
+  font-size: 2.2rem;
+  position: absolute;
+  margin-left: 3%;
+  margin-top: 2.5%;
+}
+.navMenu,.navMenu1,.navMenu2{
+  position: absolute;
+  font-size: 1.5rem;
+  text-decoration: none;
+  margin-top: 2.5%;
+  color: black;
+}
+.navMenu{
+  margin-left: 76%;
+}
+.navMenu1{
+  margin-left: 82%;
+}
+.navMenu2{
+  margin-left: 88%;
+}
